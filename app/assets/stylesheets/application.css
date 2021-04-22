@@ -50,3 +50,7 @@ div {
  .update-button {
    padding:15px 0;
  }
+ 
+li {
+  list-style-position: inside;
+}
